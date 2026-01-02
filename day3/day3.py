@@ -87,4 +87,3 @@ def max_joltage_12(file_path: str) -> int:
 if __name__ == "__main__":
     result = max_joltage_12("day3/input.txt")
     print(f'The total output joltage is: {result}')
-
